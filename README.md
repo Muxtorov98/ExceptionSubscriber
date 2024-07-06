@@ -1,4 +1,4 @@
-# ExceptionSubscriber
+# Symfony ExceptionSubscriber
 
 Create an event subscriber for handling exceptions in 
 api/src/EventSubscriber/ExceptionSubscriber.php
